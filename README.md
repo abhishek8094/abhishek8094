@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a Platform Project *TRAVEL WEBSITE *
 
-- 🌱 I’m currently learning *HTML* and *CSS*
+- 🌱 I’m currently learning Python and Java
 
 - 👨‍💻 All of my projects are available at (https://github.com/abhishek8094)
 
