@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at (https://github.com/abhishek8094)
 
-- 📫 How to reach me *Abhishek Singh*
+- 📫 How to reach me *iasabhi41@gmail.com*
 <hr>
 
 <h3 align="left"> Connect with me:</h3>
