@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a Platform Project *TRAVEL WEBSITE *
 
-- 🌱 I’m currently learning C++ and DSA
+- 🌱 I’m currently learning JAVA and DSA
 
 - 👨‍💻 All of my projects are available at (https://github.com/abhishek8094)
 
