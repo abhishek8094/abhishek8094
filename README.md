@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *iasabhi41@gmail.com*
  
-- Ask me about to JavaScript and Reactjs💻🥂
+-  💻 Ask me about to JavaScript and Reactjs🥂
 <hr>
 
 <h3 align="left"> Connect with me:</h3>
