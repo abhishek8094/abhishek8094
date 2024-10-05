@@ -1,17 +1,22 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Abhishek Singh+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=800&lines=%E2%9C%A8+Hey%2C+I'm+Abhishek+Singh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-<h3 align="left">A passionate  web developer from India. Learning new technologies and interested in contributions that make my knowledge useful for others.</h3>
 
-<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek8094&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Singh" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek8094" alt="Abhishek singh" /></a> </p>
+<h3 align="center">
+ A passionate Frontend developer from India. <img style="vertical-align: middle" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25"
+</h3>
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishek8094&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Singh" /> </p>
+
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek8094" alt="Abhishek singh" /></a> </p>
  -->
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek8094&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek8094" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek8094" alt="abhishek8094" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ <div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=abhishek8094&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+<br/>
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Working on computer" width="300px" style="border-radius: 10px; margin-top: 10px;" />
+<br/>
 
 - 🔭 I’m currently working on a Platform Project *Component Library *
 
@@ -22,6 +27,11 @@
 - 📫 How to reach me *iasabhi41@gmail.com*
  
 -  💻 Ask me about to JavaScript and Reactjs🥂
+<hr>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek8094" alt="abhishek8094" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <hr>
 
 <h3 align="left"> Connect with me:</h3>
