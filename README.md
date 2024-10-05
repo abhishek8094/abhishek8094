@@ -1,5 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=800&lines=%E2%9C%A8+Hey%2C+I'm+Abhishek+Singh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+<h1 align="center"
+  Hi! I am Abhishek Singh 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hand Wave" width="40px" style="vertical-align: middle; margin-left: 10px;" />
 </h1>
 
 
@@ -90,7 +91,7 @@
 
  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 
-## Github Stats:
+## 📈 Github Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek8094&show_icons=true&theme=midnight-purple" alt="abhishek8094" /></p>
 
