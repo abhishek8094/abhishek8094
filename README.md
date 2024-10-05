@@ -11,22 +11,27 @@
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek8094" alt="Abhishek singh" /></a> </p>
  -->
+ <br/>
+<br/>
  <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=abhishek8094&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Working on computer" width="300px" style="border-radius: 10px; margin-top: 10px;" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Person working at desk" width="300px" style="border-radius: 10px; margin-top: 10px;" />
 <br/>
+&nbsp;
+<div align="start">
 
-- 🔭 I’m currently working on a Platform Project *Component Library *
+🔭 I’m currently working on a Platform Project **Component Library **
 
-- 🌱 I’m currently learning JAVA and DSA
+🌱 I’m currently learning JAVA and DSA
  
-- 👨‍💻 All of my projects are available at (https://github.com/abhishek8094)
+👨‍💻 All of my projects are available at (https://github.com/abhishek8094)
 
-- 📫 How to reach me *iasabhi41@gmail.com*
+📫 How to reach me *iasabhi41@gmail.com*
  
--  💻 Ask me about to JavaScript and Reactjs🥂
+💻 Ask me about to JavaScript and Reactjs🥂
+</div>
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek8094" alt="abhishek8094" /></a> </p>
