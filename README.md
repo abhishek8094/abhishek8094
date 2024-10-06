@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhishek8094&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
-<img src="https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif" alt="Cool guy with laptop" width="300px" style="border-radius: 10px; margin-top: 10px;" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Person working at desk" width="300px" style="border-radius: 10px; margin-top: 10px;" />
 <br/>
 &nbsp;
 <div align="start">
