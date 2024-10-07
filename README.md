@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hand Wave" width="40px" style="vertical-align: middle; margin-left: 10px;" />
 </h1>
 
-
 <h3 align="center">
  A passionate Frontend developer from India. <img style="vertical-align: middle" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25"
 </h3>
@@ -23,15 +22,15 @@
 &nbsp;
 <div align="start">
 
-🔭 I’m currently working on a Platform Project ** Wanderlust **
+- 🔭 I’m currently working on **Wanderlust**
 
-🌱 I’m currently learning JAVA and DSA
- 
-👨‍💻 All of my projects are available at (https://github.com/abhishek8094)
+- 🌱 I’m currently learning **JAVA and DSA**
 
-📫 How to reach me *cseabhishek8094@gmail.com*
- 
-💻 Ask me about to JavaScript and Reactjs🥂
+- 💬 Ask me about **JavaScript and Reactjs🥂**
+
+- 📫 How to reach me **cseabhishek8094@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 </div>
 
 ## 🔰 Let's Connect:
